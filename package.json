@@ -1,7 +1,7 @@
 {
   "name": "page-a19d537f-0698-47ca-b382-6407a4b21cb9",
   "version": "1.0.0",
-  "description": "Generated Tailwind CSS project from PXCode",
+  "description": "Generated Tailwind CSS project",
   "scripts": {
     "start": "npm run build-css && npm run serve",
     "build": "npm run build-css",
